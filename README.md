@@ -3,5 +3,5 @@ This is my first commit
 This is my second git change 
 
 
-Alwyn Macabugwas
+Victor Sebastian H. Sarmiento
 IT1331L
